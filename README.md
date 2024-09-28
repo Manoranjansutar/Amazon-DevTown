@@ -29,6 +29,8 @@
 
 <p>Product Details Page</p>
 
+![097b0731-a58f-447b-bc77-e7efe7a6c8fc](https://github.com/user-attachments/assets/567e327f-69fe-48c6-881b-be62f10d9a6c)
+
 
 
 
