@@ -7,7 +7,7 @@
 
 <h2>Live Demo</h2>
 <p>
-  frontend-https://amazon-dev-town-frontend-iz433cg69-manoranjan-sutars-projects.vercel.app/             
+  frontend- https://amazon-dev-town-frontend.vercel.app/            
 </p>
 <p>
          backend link-https://amazon-devtown-backend.onrender.com 
