@@ -16,12 +16,15 @@
 <p>user login -user@gmail.com  password-abcd@123 </p>
 
 <p>HomePage</p>
+
 ![e8dd701b-0da5-4b78-9dc0-97620a77279a](https://github.com/user-attachments/assets/b2305d79-f5da-4628-9c28-50a2c77f6496)
 
 <p>Login Page</p>
+
 ![61455ff5-d49a-4112-a1bb-efca0472f673](https://github.com/user-attachments/assets/9fdd031c-4ada-49e3-8d05-baffa0a9d85c)
 
 <p>Register Page</p>
+
 ![562cb36a-5979-4e24-bc51-b7985d6d91f8](https://github.com/user-attachments/assets/21b68ec1-28e8-4410-8b2a-f441ae86a369)
 
 <p>Product Details Page</p>
